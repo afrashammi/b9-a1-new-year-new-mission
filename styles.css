@@ -1,0 +1,91 @@
+.container{
+    background-image: url('resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    width: 1320px;
+    /* /* padding: 50px 140px;  */
+    text-align: center;
+    padding: 50px 140px;
+}
+.overlay{
+    
+    color: white;
+    text-align: center;
+    
+    
+}
+.first-title{
+
+    height: 259px;
+    font-size: 35px;
+    
+}
+.sec-title{
+    position: absolute;
+    font-size: 80px;
+    /* transform: translate(-50% -50%); */
+}
+.medium{
+    background-image: url(resources/Vectorrr.png);
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1320px;
+    padding: 50px 140px;
+    
+}
+
+  
+.medium-title{
+    color: white;
+    font-size: 88px;
+    text-align: left;
+}
+.para-title{
+    color: white;
+    font-size: small;
+    font-size: 18px;
+    text-align: left;
+}
+
+.medium-sec-title{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+
+}
+.event {
+    background-color: #f0f0f0; 
+    padding: 10px; 
+    width: 300px; 
+    border-radius: 5px; 
+  }
+  
+  .event{
+    font-size: 35px;
+    border: 549px 168px;
+    background:#FEE9E9;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+  }
+  
+  .event-issue{
+    color: red;
+  }
+  .btn-event{
+    background-color: red;
+    color: white;
+    font-size: 20;
+    height: 24px;
+    width: 140px;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    
+
+  }
+  
