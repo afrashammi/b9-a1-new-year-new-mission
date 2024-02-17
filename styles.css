@@ -28,6 +28,9 @@
 }
 .medium{
     background-image: url(resources/Vectorrr.png);
+    background-position:bottom right;
+    display: flex;
+    align-items: center;
     
     background-repeat: no-repeat;
     background-position: center;
